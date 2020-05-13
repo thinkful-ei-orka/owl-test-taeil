@@ -1,0 +1,55 @@
+
+.participant {
+  display: flex;
+  margin: 10px 0;
+}
+.participant img {
+  width: 40px;
+  height: 40px;
+  background: #ddd;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.participant div {
+
+}
+.participant h6 {
+  margin: 0;
+  font-size: 16px;
+  margin-top: 3px;
+}
+
+
+.status {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+.participant.session-true .status {
+  background: #65D482;
+}
+.participant.session-true .off-stage {
+  display: none;
+}
+.participant.session-false .status {
+  background: rgb(218, 120, 120);
+}
+.participant.session-false .on-stage {
+  display: none;
+}
+.participant.session-false .off-stage {
+  display: inline;
+}
+.participant.stage-true {
+
+}
+.participant.stage-off {
+
+}
+
+.on-stage, .off-stage, .boot {
+  color: #adadad;
+  font-size: 14px;
+}

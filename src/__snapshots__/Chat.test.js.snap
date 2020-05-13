@@ -1,0 +1,118 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Chat Component renders the UI as expected 1`] = `
+<section
+  className="chat"
+>
+  <div
+    className="chat-log"
+  >
+    <div
+      className="message"
+    >
+      <img
+        alt="Axe Kubicka avatar"
+        src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+      />
+      <div>
+        <h6>
+          Axe Kubicka
+           
+          <span
+            className="time"
+          >
+            6:50 AM
+          </span>
+        </h6>
+        <div>
+          Hello world
+        </div>
+      </div>
+    </div>
+    <div
+      className="chat-action"
+    >
+      <strong>
+        Caty Flucker
+      </strong>
+       gave a thumbs up 
+      <i
+        className="far fa-thumbs-up"
+      />
+    </div>
+    <div
+      className="chat-action"
+    >
+      <strong>
+        Frank Runciman
+      </strong>
+       gave a thumbs down 
+      <i
+        className="far fa-thumbs-down"
+      />
+    </div>
+    <div
+      className="chat-action"
+    >
+      <strong>
+        Koren Templeton
+      </strong>
+       raised their hand 
+      <i
+        className="far fa-hand-paper"
+      />
+    </div>
+    <div
+      className="chat-action"
+    >
+      <strong>
+        Koren Templeton
+      </strong>
+       clapped 
+      <i
+        className="fas fa-hands-wash"
+      />
+    </div>
+    <div
+      className="chat-action"
+    >
+      <strong>
+        Koren Templeton
+      </strong>
+       joined
+    </div>
+    <div
+      className="chat-action"
+    >
+      <strong>
+        Ashla Attwool
+      </strong>
+       left
+    </div>
+    <div
+      className="chat-action"
+    >
+      <strong>
+        Axe Kubicka
+      </strong>
+       joined the stage
+    </div>
+    <div
+      className="chat-action"
+    >
+      <strong>
+        Axe Kubicka
+      </strong>
+       left the stage
+    </div>
+  </div>
+  <div
+    className="chat-input"
+  >
+    <input
+      placeholder="Chat"
+      type="text"
+    />
+  </div>
+</section>
+`;

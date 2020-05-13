@@ -1,0 +1,496 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component renders the UI as expected 1`] = `
+<div>
+  <main
+    className="App"
+  >
+    <section
+      className="left-panel list-active"
+      id="left-panel"
+    >
+      <div
+        className="left-buttons"
+      >
+        <button
+          id="chat-button"
+          onClick={[Function]}
+          type="button"
+        >
+          Chat
+        </button>
+        <button
+          className="active"
+          id="list-button"
+          onClick={[Function]}
+          type="button"
+        >
+          Participants
+        </button>
+        <button
+          className="icon"
+          type="button"
+        >
+          <i
+            className="fas fa-cog"
+          />
+        </button>
+        <button
+          className="icon"
+          type="button"
+        >
+          <i
+            className="fas fa-link"
+          />
+        </button>
+        <button
+          className="icon"
+          type="button"
+        >
+          <i
+            className="far fa-question-circle"
+          />
+        </button>
+      </div>
+      <section
+        className="list"
+      >
+        <div
+          className="participant session-true stage-true"
+        >
+          <img
+            alt="Koren Templeton avatar"
+            src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+          />
+          <div>
+            <h6>
+              Koren Templeton
+            </h6>
+            <div>
+              <span
+                className="status"
+              />
+              <span
+                className="on-stage"
+              >
+                on stage
+              </span>
+              <span
+                className="off-stage"
+              >
+                off stage
+              </span>
+              <span
+                className="boot"
+              >
+                 • 
+                <a
+                  href="#"
+                >
+                  Boot
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="participant session-true stage-false"
+        >
+          <img
+            alt="Caty Flucker avatar"
+            src="https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1"
+          />
+          <div>
+            <h6>
+              Caty Flucker
+            </h6>
+            <div>
+              <span
+                className="status"
+              />
+              <span
+                className="on-stage"
+              >
+                on stage
+              </span>
+              <span
+                className="off-stage"
+              >
+                off stage
+              </span>
+              <span
+                className="boot"
+              >
+                 • 
+                <a
+                  href="#"
+                >
+                  Boot
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="participant session-true stage-false"
+        >
+          <img
+            alt="Frank Runciman avatar"
+            src="https://robohash.org/etexercitationemassumenda.jpg?size=200x200&set=set1"
+          />
+          <div>
+            <h6>
+              Frank Runciman
+            </h6>
+            <div>
+              <span
+                className="status"
+              />
+              <span
+                className="on-stage"
+              >
+                on stage
+              </span>
+              <span
+                className="off-stage"
+              >
+                off stage
+              </span>
+              <span
+                className="boot"
+              >
+                 • 
+                <a
+                  href="#"
+                >
+                  Boot
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="participant session-true stage-true"
+        >
+          <img
+            alt="Ashla Attwool avatar"
+            src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+          />
+          <div>
+            <h6>
+              Ashla Attwool
+            </h6>
+            <div>
+              <span
+                className="status"
+              />
+              <span
+                className="on-stage"
+              >
+                on stage
+              </span>
+              <span
+                className="off-stage"
+              >
+                off stage
+              </span>
+              <span
+                className="boot"
+              >
+                 • 
+                <a
+                  href="#"
+                >
+                  Boot
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          className="participant session-false stage-false"
+        >
+          <img
+            alt="Axe Kubicka avatar"
+            src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+          />
+          <div>
+            <h6>
+              Axe Kubicka
+            </h6>
+            <div>
+              <span
+                className="status"
+              />
+              <span
+                className="on-stage"
+              >
+                on stage
+              </span>
+              <span
+                className="off-stage"
+              >
+                off stage
+              </span>
+              <span
+                className="boot"
+              >
+                 • 
+                <a
+                  href="#"
+                >
+                  Boot
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        className="chat"
+      >
+        <div
+          className="chat-log"
+        >
+          <div
+            className="message"
+          >
+            <img
+              alt="Axe Kubicka avatar"
+              src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+            />
+            <div>
+              <h6>
+                Axe Kubicka
+                 
+                <span
+                  className="time"
+                >
+                  6:50 AM
+                </span>
+              </h6>
+              <div>
+                Hello world
+              </div>
+            </div>
+          </div>
+          <div
+            className="chat-action"
+          >
+            <strong>
+              Caty Flucker
+            </strong>
+             gave a thumbs up 
+            <i
+              className="far fa-thumbs-up"
+            />
+          </div>
+          <div
+            className="chat-action"
+          >
+            <strong>
+              Frank Runciman
+            </strong>
+             gave a thumbs down 
+            <i
+              className="far fa-thumbs-down"
+            />
+          </div>
+          <div
+            className="chat-action"
+          >
+            <strong>
+              Koren Templeton
+            </strong>
+             raised their hand 
+            <i
+              className="far fa-hand-paper"
+            />
+          </div>
+          <div
+            className="chat-action"
+          >
+            <strong>
+              Koren Templeton
+            </strong>
+             clapped 
+            <i
+              className="fas fa-hands-wash"
+            />
+          </div>
+          <div
+            className="chat-action"
+          >
+            <strong>
+              Koren Templeton
+            </strong>
+             joined
+          </div>
+          <div
+            className="chat-action"
+          >
+            <strong>
+              Ashla Attwool
+            </strong>
+             left
+          </div>
+          <div
+            className="chat-action"
+          >
+            <strong>
+              Axe Kubicka
+            </strong>
+             joined the stage
+          </div>
+          <div
+            className="chat-action"
+          >
+            <strong>
+              Axe Kubicka
+            </strong>
+             left the stage
+          </div>
+        </div>
+        <div
+          className="chat-input"
+        >
+          <input
+            placeholder="Chat"
+            type="text"
+          />
+        </div>
+      </section>
+    </section>
+    <section
+      className="stage"
+    >
+      <div
+        className="stage-participant"
+      >
+        <div
+          className="name"
+        >
+          Koren Templeton
+          <i
+            className="fas fa-volume-up"
+          />
+          <i
+            className="fas fa-search"
+          />
+          <div
+            className="volume"
+          />
+        </div>
+        <img
+          alt="Koren Templeton avatar"
+          src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+        />
+        <div
+          className="flex-fix"
+        />
+      </div>
+      <div
+        className="stage-participant"
+      >
+        <div
+          className="name"
+        >
+          Ashla Attwool
+          <i
+            className="fas fa-volume-up"
+          />
+          <i
+            className="fas fa-search"
+          />
+          <div
+            className="volume"
+          />
+        </div>
+        <img
+          alt="Ashla Attwool avatar"
+          src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+        />
+        <div
+          className="flex-fix"
+        />
+      </div>
+    </section>
+  </main>
+  <footer>
+    <div>
+      <button
+        className="circle"
+        type="button"
+      >
+        <i
+          className="fas fa-chevron-left"
+        />
+      </button>
+      <button
+        className="hand"
+        type="button"
+      >
+        <i
+          className="far fa-thumbs-up"
+        />
+      </button>
+      <button
+        className="hand"
+        type="button"
+      >
+        <i
+          className="far fa-thumbs-down"
+        />
+      </button>
+      <button
+        className="hand"
+        type="button"
+      >
+        <i
+          className="far fa-hand-paper"
+        />
+      </button>
+      <button
+        className="hand"
+        type="button"
+      >
+        <i
+          className="fas fa-hands-wash"
+        />
+      </button>
+    </div>
+    <div>
+      <button
+        className="circle"
+        type="button"
+      >
+        <i
+          className="fas fa-video"
+        />
+      </button>
+      <button
+        className="circle"
+        type="button"
+      >
+        <i
+          className="fas fa-volume-up"
+        />
+      </button>
+      <button
+        className="circle"
+        type="button"
+      >
+        <i
+          className="fas fa-desktop"
+        />
+      </button>
+      <button
+        className="red"
+        type="button"
+      >
+        Leave stage
+      </button>
+    </div>
+  </footer>
+</div>
+`;

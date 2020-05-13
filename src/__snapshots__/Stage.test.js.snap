@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TheDate Component renders the UI as expected 1`] = `
+<section
+  className="stage"
+>
+  <div
+    className="stage-participant"
+  >
+    <div
+      className="name"
+    >
+      Koren Templeton
+      <i
+        className="fas fa-volume-up"
+      />
+      <i
+        className="fas fa-search"
+      />
+      <div
+        className="volume"
+      />
+    </div>
+    <img
+      alt="Koren Templeton avatar"
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+    <div
+      className="flex-fix"
+    />
+  </div>
+  <div
+    className="stage-participant"
+  >
+    <div
+      className="name"
+    >
+      Ashla Attwool
+      <i
+        className="fas fa-volume-up"
+      />
+      <i
+        className="fas fa-search"
+      />
+      <div
+        className="volume"
+      />
+    </div>
+    <img
+      alt="Ashla Attwool avatar"
+      src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+    />
+    <div
+      className="flex-fix"
+    />
+  </div>
+</section>
+`;

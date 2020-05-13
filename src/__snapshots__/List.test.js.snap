@@ -1,0 +1,198 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List Component renders the UI as expected 1`] = `
+<section
+  className="list"
+>
+  <div
+    className="participant session-true stage-true"
+  >
+    <img
+      alt="Koren Templeton avatar"
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+    <div>
+      <h6>
+        Koren Templeton
+      </h6>
+      <div>
+        <span
+          className="status"
+        />
+        <span
+          className="on-stage"
+        >
+          on stage
+        </span>
+        <span
+          className="off-stage"
+        >
+          off stage
+        </span>
+        <span
+          className="boot"
+        >
+           • 
+          <a
+            href="#"
+          >
+            Boot
+          </a>
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    className="participant session-true stage-false"
+  >
+    <img
+      alt="Caty Flucker avatar"
+      src="https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1"
+    />
+    <div>
+      <h6>
+        Caty Flucker
+      </h6>
+      <div>
+        <span
+          className="status"
+        />
+        <span
+          className="on-stage"
+        >
+          on stage
+        </span>
+        <span
+          className="off-stage"
+        >
+          off stage
+        </span>
+        <span
+          className="boot"
+        >
+           • 
+          <a
+            href="#"
+          >
+            Boot
+          </a>
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    className="participant session-true stage-false"
+  >
+    <img
+      alt="Frank Runciman avatar"
+      src="https://robohash.org/etexercitationemassumenda.jpg?size=200x200&set=set1"
+    />
+    <div>
+      <h6>
+        Frank Runciman
+      </h6>
+      <div>
+        <span
+          className="status"
+        />
+        <span
+          className="on-stage"
+        >
+          on stage
+        </span>
+        <span
+          className="off-stage"
+        >
+          off stage
+        </span>
+        <span
+          className="boot"
+        >
+           • 
+          <a
+            href="#"
+          >
+            Boot
+          </a>
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    className="participant session-true stage-true"
+  >
+    <img
+      alt="Ashla Attwool avatar"
+      src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+    />
+    <div>
+      <h6>
+        Ashla Attwool
+      </h6>
+      <div>
+        <span
+          className="status"
+        />
+        <span
+          className="on-stage"
+        >
+          on stage
+        </span>
+        <span
+          className="off-stage"
+        >
+          off stage
+        </span>
+        <span
+          className="boot"
+        >
+           • 
+          <a
+            href="#"
+          >
+            Boot
+          </a>
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    className="participant session-false stage-false"
+  >
+    <img
+      alt="Axe Kubicka avatar"
+      src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+    />
+    <div>
+      <h6>
+        Axe Kubicka
+      </h6>
+      <div>
+        <span
+          className="status"
+        />
+        <span
+          className="on-stage"
+        >
+          on stage
+        </span>
+        <span
+          className="off-stage"
+        >
+          off stage
+        </span>
+        <span
+          className="boot"
+        >
+           • 
+          <a
+            href="#"
+          >
+            Boot
+          </a>
+        </span>
+      </div>
+    </div>
+  </div>
+</section>
+`;
